@@ -89,3 +89,16 @@ html{
     letter-spacing: -0.035rem;
     color: #FFF;
 }
+
+.footer{
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: normal;
+    line-height: 1.7rem;
+    color: #BDBDBD;
+}
+
+.footer a{
+    font-weight: bold;
+}
